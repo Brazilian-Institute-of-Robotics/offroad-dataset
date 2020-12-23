@@ -1,0 +1,11 @@
+_background_
+animal
+bike
+bus
+car
+cone
+dog
+moto
+person
+road
+truck
